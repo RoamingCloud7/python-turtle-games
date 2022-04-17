@@ -2,4 +2,4 @@
 
 ## 简介
 
-python图形库turtle实践游戏
+本项目为python图形库turtle实践游戏
