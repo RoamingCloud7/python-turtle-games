@@ -2,4 +2,4 @@
 
 ## 简介
 
-本项目为python图形库turtle实践：游戏设计。
+本项目为python图形库turtle的实践：游戏设计。
